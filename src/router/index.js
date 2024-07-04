@@ -5,7 +5,7 @@ import servicing from "../pages/servicing.vue";
 import autoParts from "../pages/autoParts.vue";
 import myOrders from "../pages/myOrders.vue";
 
-const routes = [{path: '/car-market', component: Index, name: 'main_page'}, {
+const routes = [{path: '/car-market/', component: Index, name: 'main_page'}, {
     path: '/sale/:id?',
     component: Forsale,
     name: 'forsale_page'

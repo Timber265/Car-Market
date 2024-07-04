@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'ModernWarfare';
+    src: url('./assets/fonts/ModernWarfare-8MM6z.ttf') format("truetype");
+}@font-face {
+    font-family: 'Freshman';
+    src: url('./assets/fonts/Freshman.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'spaceMono';
+    src: url('./assets/fonts/SpaceMono-Regular.ttf') format("truetype");
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: 'Eurostile Extended', sans-serif;
+    color: inherit;
+}
+
+.container {
+    max-width: 1310px;
+    padding: 0 15px;
+    margin: 0 auto;
+}

@@ -1,0 +1,1148 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "model": "Tesla Model S",
+      "name": "Tesla",
+      "image": "/carsDataImage/Tesla Model S.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "N/A",
+        "engine_type": "Electric",
+        "fuel_consumption_100km": "N/A",
+        "acceleration_0_100": "1.99 seconds",
+        "engine_power": "1020 hp",
+        "trunk_capacity_max": "N/A",
+        "gearbox_type": "Automatic",
+        "body_type": "Sedan",
+        "horsepower": 1020,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "396 miles",
+        "seating_capacity": 5,
+        "transmission": "Single-speed"
+      },
+      "year": 2023,
+      "price": 90000
+    },
+    {
+      "id": "2",
+      "model": "BMW 3 Series",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW 3 Series.png",
+      "characteristics": {
+        "drive": "RWD",
+        "engine_displacement": "2.0L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "7.8 L",
+        "acceleration_0_100": "5.6 seconds",
+        "engine_power": "255 hp",
+        "trunk_capacity_max": "17 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Sedan",
+        "horsepower": 255,
+        "wheel_drive": "RWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 45000
+    },
+    {
+      "id": "3",
+      "model": "Audi A4",
+      "name": "Audi",
+      "image": "/carsDataImage/Audi A4.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "2.0L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "7.2 L",
+        "acceleration_0_100": "5.2 seconds",
+        "engine_power": "261 hp",
+        "trunk_capacity_max": "13 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Sedan",
+        "horsepower": 261,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "7-speed S tronic"
+      },
+      "year": 2023,
+      "price": 42000
+    },
+    {
+      "id": "4",
+      "model": "Mercedes-Benz C-Class",
+      "name": "Mercedes",
+      "image": "/carsDataImage/Mercedes-Benz C-Class.png",
+      "characteristics": {
+        "drive": "RWD",
+        "engine_displacement": "2.0L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "7.1 L",
+        "acceleration_0_100": "5.7 seconds",
+        "engine_power": "255 hp",
+        "trunk_capacity_max": "17 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Sedan",
+        "horsepower": 255,
+        "wheel_drive": "RWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "9-speed Automatic"
+      },
+      "year": 2024,
+      "price": 47000
+    },
+    {
+      "id": "5",
+      "model": "Ford Mustang",
+      "name": "Ford",
+      "image": "/carsDataImage/Ford Mustang.png",
+      "characteristics": {
+        "drive": "RWD",
+        "engine_displacement": "5.0L",
+        "engine_type": "V8",
+        "fuel_consumption_100km": "13.8 L",
+        "acceleration_0_100": "4.2 seconds",
+        "engine_power": "450 hp",
+        "trunk_capacity_max": "13.5 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Coupe",
+        "horsepower": 450,
+        "wheel_drive": "RWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 4,
+        "transmission": "10-speed Automatic"
+      },
+      "year": 2023,
+      "price": 55000
+    },
+    {
+      "id": "6",
+      "model": "Toyota Camry",
+      "name": "Toyota",
+      "image": "/carsDataImage/Toyota Camry.png",
+      "characteristics": {
+        "drive": "FWD",
+        "engine_displacement": "2.5L",
+        "engine_type": "Inline 4",
+        "fuel_consumption_100km": "7.1 L",
+        "acceleration_0_100": "7.6 seconds",
+        "engine_power": "203 hp",
+        "trunk_capacity_max": "15.1 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Sedan",
+        "horsepower": 203,
+        "wheel_drive": "FWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2023,
+      "price": 35000
+    },
+    {
+      "id": "7",
+      "model": "Honda CR-V",
+      "name": "Honda",
+      "image": "/carsDataImage/Honda CR-V.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "1.5L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "7.4 L",
+        "acceleration_0_100": "7.2 seconds",
+        "engine_power": "190 hp",
+        "trunk_capacity_max": "39.2 cubic feet",
+        "gearbox_type": "CVT",
+        "body_type": "SUV",
+        "horsepower": 190,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "Continuously Variable"
+      },
+      "year": 2024,
+      "price": 32000
+    },
+    {
+      "id": "8",
+      "model": "Volvo XC90",
+      "name": "Volvo",
+      "image": "/carsDataImage/Volvo XC90.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "2.0L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "8.5 L",
+        "acceleration_0_100": "6.4 seconds",
+        "engine_power": "250 hp",
+        "trunk_capacity_max": "85.7 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 250,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 7,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2023,
+      "price": 55000
+    },
+    {
+      "id": "9",
+      "model": "Chevrolet Silverado",
+      "name": "Chevrolet",
+      "image": "/carsDataImage/Chevrolet Silverado.png",
+      "characteristics": {
+        "drive": "4WD",
+        "engine_displacement": "6.2L",
+        "engine_type": "V8",
+        "fuel_consumption_100km": "13.1 L",
+        "acceleration_0_100": "6.1 seconds",
+        "engine_power": "420 hp",
+        "trunk_capacity_max": "89.1 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Pickup Truck",
+        "horsepower": 420,
+        "wheel_drive": "4WD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "10-speed Automatic"
+      },
+      "year": 2024,
+      "price": 45000
+    },
+    {
+      "id": "10",
+      "model": "Jeep Wrangler",
+      "name": "Jeep",
+      "image": "/carsDataImage/Jeep Wrangler.png",
+      "characteristics": {
+        "drive": "4WD",
+        "engine_displacement": "3.6L",
+        "engine_type": "V6",
+        "fuel_consumption_100km": "12.4 L",
+        "acceleration_0_100": "7.3 seconds",
+        "engine_power": "285 hp",
+        "trunk_capacity_max": "31.7 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 285,
+        "wheel_drive": "4WD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2023,
+      "price": 40000
+    },
+    {
+      "id": "11",
+      "model": "Lamborghini Aventador",
+      "name": "Lamborghini",
+      "image": "/carsDataImage/Lamborghini Aventador.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "6.5L",
+        "engine_type": "V12",
+        "fuel_consumption_100km": "19.6 L",
+        "acceleration_0_100": "2.9 seconds",
+        "engine_power": "730 hp",
+        "trunk_capacity_max": "N/A",
+        "gearbox_type": "Automatic",
+        "body_type": "Coupe",
+        "horsepower": 730,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 2,
+        "transmission": "7-speed ISR"
+      },
+      "year": 2023,
+      "price": 450000
+    },
+    {
+      "id": "12",
+      "model": "Porsche 911",
+      "name": "Porsche",
+      "image": "/carsDataImage/Porsche 911.png",
+      "characteristics": {
+        "drive": "RWD",
+        "engine_displacement": "3.0L",
+        "engine_type": "Flat 6 Turbo",
+        "fuel_consumption_100km": "9.5 L",
+        "acceleration_0_100": "3.5 seconds",
+        "engine_power": "379 hp",
+        "trunk_capacity_max": "5.1 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Coupe",
+        "horsepower": 379,
+        "wheel_drive": "RWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 4,
+        "transmission": "8-speed PDK"
+      },
+      "year": 2024,
+      "price": 120000
+    },
+    {
+      "id": "13",
+      "model": "Subaru Outback",
+      "name": "Subaru",
+      "image": "/carsDataImage/Subaru Outback.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "2.4L",
+        "engine_type": "Flat 4 Turbo",
+        "fuel_consumption_100km": "8.7 L",
+        "acceleration_0_100": "7.1 seconds",
+        "engine_power": "260 hp",
+        "trunk_capacity_max": "75.7 cubic feet",
+        "gearbox_type": "CVT",
+        "body_type": "Wagon",
+        "horsepower": 260,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "Continuously Variable"
+      },
+      "year": 2023,
+      "price": 35000
+    },
+    {
+      "id": "14",
+      "model": "Toyota RAV4",
+      "name": "Toyota",
+      "image": "/carsDataImage/Toyota RAV4.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "2.5L",
+        "engine_type": "Inline 4",
+        "fuel_consumption_100km": "7.6 L",
+        "acceleration_0_100": "8.1 seconds",
+        "engine_power": "203 hp",
+        "trunk_capacity_max": "37.5 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 203,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2022,
+      "price": 30000
+    },
+    {
+      "id": "15",
+      "model": "Volkswagen Golf",
+      "name": "Volkswagen",
+      "image": "/carsDataImage/Volkswagen Golf.png",
+      "characteristics": {
+        "drive": "FWD",
+        "engine_displacement": "1.4L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "6.7 L",
+        "acceleration_0_100": "8.5 seconds",
+        "engine_power": "147 hp",
+        "trunk_capacity_max": "17.4 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Hatchback",
+        "horsepower": 147,
+        "wheel_drive": "FWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 25000
+    },
+    {
+      "id": "16",
+      "model": "Ford F-150",
+      "name": "Ford",
+      "image": "/carsDataImage/Ford F-150.png",
+      "characteristics": {
+        "drive": "4WD",
+        "engine_displacement": "3.5L",
+        "engine_type": "V6 Turbo",
+        "fuel_consumption_100km": "12.4 L",
+        "acceleration_0_100": "5.9 seconds",
+        "engine_power": "400 hp",
+        "trunk_capacity_max": "52.8 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Pickup Truck",
+        "horsepower": 400,
+        "wheel_drive": "4WD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 6,
+        "transmission": "10-speed Automatic"
+      },
+      "year": 2024,
+      "price": 65000
+    },
+    {
+      "id": "17",
+      "model": "BMW X5",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW X5.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "3.0L",
+        "engine_type": "Inline 6 Turbo",
+        "fuel_consumption_100km": "8.7 L",
+        "acceleration_0_100": "5.3 seconds",
+        "engine_power": "335 hp",
+        "trunk_capacity_max": "33.9 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 335,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 60000
+    },
+    {
+      "id": "18",
+      "model": "BMW X3",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW X3.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "2.0L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "8.0 L",
+        "acceleration_0_100": "6.3 seconds",
+        "engine_power": "248 hp",
+        "trunk_capacity_max": "28.7 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 248,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 50000
+    },
+    {
+      "id": "19",
+      "model": "BMW X7",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW X7.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "3.0L",
+        "engine_type": "Inline 6 Turbo",
+        "fuel_consumption_100km": "10.2 L",
+        "acceleration_0_100": "5.8 seconds",
+        "engine_power": "335 hp",
+        "trunk_capacity_max": "48.6 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 335,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 7,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 70000
+    },
+    {
+      "id": "20",
+      "model": "BMW X1",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW X1.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "2.0L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "7.6 L",
+        "acceleration_0_100": "6.6 seconds",
+        "engine_power": "228 hp",
+        "trunk_capacity_max": "27.1 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 228,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 45000
+    },
+    {
+      "id": "21",
+      "model": "BMW i3",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW i3.png",
+      "characteristics": {
+        "drive": "RWD",
+        "engine_displacement": "N/A",
+        "engine_type": "Electric",
+        "fuel_consumption_100km": "N/A",
+        "acceleration_0_100": "6.9 seconds",
+        "engine_power": "170 hp",
+        "trunk_capacity_max": "36.9 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Hatchback",
+        "horsepower": 170,
+        "wheel_drive": "RWD",
+        "average_range_per_charge": "153 miles",
+        "seating_capacity": 4,
+        "transmission": "Single-speed"
+      },
+      "year": 2024,
+      "price": 40000
+    },
+    {
+      "id": "22",
+      "model": "Mercedes-Benz E-Class",
+      "name": "Mercedes",
+      "image": "/carsDataImage/Mercedes-Benz E-Class.png",
+      "characteristics": {
+        "drive": "RWD",
+        "engine_displacement": "2.0L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "7.2 L",
+        "acceleration_0_100": "6.2 seconds",
+        "engine_power": "255 hp",
+        "trunk_capacity_max": "13.1 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Sedan",
+        "horsepower": 255,
+        "wheel_drive": "RWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "9-speed Automatic"
+      },
+      "year": 2024,
+      "price": 50000
+    },
+    {
+      "id": "23",
+      "model": "Mercedes-Benz GLC-Class",
+      "name": "Mercedes",
+      "image": "/carsDataImage/Mercedes-Benz GLC-Class.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "2.0L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "9.8 L",
+        "acceleration_0_100": "6.2 seconds",
+        "engine_power": "255 hp",
+        "trunk_capacity_max": "19.4 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 255,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "9-speed Automatic"
+      },
+      "year": 2024,
+      "price": 55000
+    },
+    {
+      "id": "24",
+      "model": "Mercedes-Benz GLE-Class",
+      "name": "Mercedes",
+      "image": "/carsDataImage/Mercedes-Benz GLE-Class.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "3.0L",
+        "engine_type": "Inline 6 Turbo",
+        "fuel_consumption_100km": "9.9 L",
+        "acceleration_0_100": "5.3 seconds",
+        "engine_power": "362 hp",
+        "trunk_capacity_max": "33.3 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 362,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "9-speed Automatic"
+      },
+      "year": 2024,
+      "price": 65000
+    },
+    {
+      "id": "25",
+      "model": "Mercedes-Benz A-Class",
+      "name": "Mercedes",
+      "image": "/carsDataImage/Mercedes-Benz A-Class.png",
+      "characteristics": {
+        "drive": "FWD",
+        "engine_displacement": "2.0L",
+        "engine_type": "Inline 4 Turbo",
+        "fuel_consumption_100km": "6.7 L",
+        "acceleration_0_100": "7.1 seconds",
+        "engine_power": "188 hp",
+        "trunk_capacity_max": "13.1 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Sedan",
+        "horsepower": 188,
+        "wheel_drive": "FWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "7-speed Automatic"
+      },
+      "year": 2024,
+      "price": 35000
+    },
+    {
+      "id": "26",
+      "model": "Mercedes-Benz GLS-Class",
+      "name": "Mercedes-Benz",
+      "image": "/carsDataImage/Mercedes-Benz GLS-Class.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "3.0L",
+        "engine_type": "Inline 6 Turbo",
+        "fuel_consumption_100km": "11.5 L",
+        "acceleration_0_100": "5.9 seconds",
+        "engine_power": "362 hp",
+        "trunk_capacity_max": "17.4 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 362,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 7,
+        "transmission": "9-speed Automatic"
+      },
+      "year": 2024,
+      "price": 75000
+    },
+    {
+      "id": "27",
+      "model": "BMW M2",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW M2.png",
+      "characteristics": {
+        "drive": "RWD",
+        "engine_displacement": "3.0L",
+        "engine_type": "Inline 6 Turbo",
+        "fuel_consumption_100km": "9.8 L",
+        "acceleration_0_100": "4.2 seconds",
+        "engine_power": "405 hp",
+        "trunk_capacity_max": "13.8 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Coupe",
+        "horsepower": 405,
+        "wheel_drive": "RWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 4,
+        "transmission": "6-speed Manual"
+      },
+      "year": 2024,
+      "price": 60000
+    },
+    {
+      "id": "28",
+      "model": "BMW M3",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW M3.png",
+      "characteristics": {
+        "drive": "RWD",
+        "engine_displacement": "3.0L",
+        "engine_type": "Inline 6 Turbo",
+        "fuel_consumption_100km": "10.2 L",
+        "acceleration_0_100": "4.1 seconds",
+        "engine_power": "473 hp",
+        "trunk_capacity_max": "13 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Sedan",
+        "horsepower": 473,
+        "wheel_drive": "RWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "6-speed Manual"
+      },
+      "year": 2024,
+      "price": 70000
+    },
+    {
+      "id": "29",
+      "model": "BMW M4",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW M4.png",
+      "characteristics": {
+        "drive": "RWD",
+        "engine_displacement": "3.0L",
+        "engine_type": "Inline 6 Turbo",
+        "fuel_consumption_100km": "10.4 L",
+        "acceleration_0_100": "3.9 seconds",
+        "engine_power": "503 hp",
+        "trunk_capacity_max": "13 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Coupe",
+        "horsepower": 503,
+        "wheel_drive": "RWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 4,
+        "transmission": "6-speed Manual"
+      },
+      "year": 2024,
+      "price": 80000
+    },
+    {
+      "id": "30",
+      "model": "BMW M5",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW M5.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "4.4L",
+        "engine_type": "V8 Twin Turbo",
+        "fuel_consumption_100km": "11.1 L",
+        "acceleration_0_100": "3.3 seconds",
+        "engine_power": "600 hp",
+        "trunk_capacity_max": "18.7 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Sedan",
+        "horsepower": 600,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 95000
+    },
+    {
+      "id": "31",
+      "model": "BMW M8",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW M8.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "4.4L",
+        "engine_type": "V8 Twin Turbo",
+        "fuel_consumption_100km": "11.5 L",
+        "acceleration_0_100": "3.3 seconds",
+        "engine_power": "617 hp",
+        "trunk_capacity_max": "14.8 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "Coupe",
+        "horsepower": 617,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 4,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 110000
+    },
+    {
+      "id": "32",
+      "model": "BMW X3 M",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW X3 M.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "3.0L",
+        "engine_type": "Inline 6 Turbo",
+        "fuel_consumption_100km": "11.2 L",
+        "acceleration_0_100": "4.1 seconds",
+        "engine_power": "473 hp",
+        "trunk_capacity_max": "28.7 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 473,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 90000
+    },
+    {
+      "id": "33",
+      "model": "BMW X5 M",
+      "name": "BMW",
+      "image": "/carsDataImage/BMW X5 M.png",
+      "characteristics": {
+        "drive": "AWD",
+        "engine_displacement": "4.4L",
+        "engine_type": "V8 Twin Turbo",
+        "fuel_consumption_100km": "12.5 L",
+        "acceleration_0_100": "3.8 seconds",
+        "engine_power": "600 hp",
+        "trunk_capacity_max": "33.9 cubic feet",
+        "gearbox_type": "Automatic",
+        "body_type": "SUV",
+        "horsepower": 600,
+        "wheel_drive": "AWD",
+        "average_range_per_charge": "N/A",
+        "seating_capacity": 5,
+        "transmission": "8-speed Automatic"
+      },
+      "year": 2024,
+      "price": 120000
+    }
+  ],
+  "bodyType": [
+    {
+      "name": "Hatch",
+      "image": "/autoParts/bodyType/Hatch.svg",
+      "id": "c4b2"
+    },
+    {
+      "name": "SUV",
+      "image": "/autoParts/bodyType/SUV.svg",
+      "id": "949e"
+    },
+    {
+      "name": "Sedan",
+      "image": "/autoParts/bodyType/Sedan.svg",
+      "id": "0710"
+    },
+    {
+      "name": "Ute",
+      "image": "/autoParts/bodyType/Ute.svg",
+      "id": "31bb"
+    },
+    {
+      "name": "Cab Chassis",
+      "image": "/autoParts/bodyType/Cab Chassis.svg",
+      "id": "49c9"
+    },
+    {
+      "name": "Wagon",
+      "image": "/autoParts/bodyType/Wagon.svg",
+      "id": "abc2"
+    },
+    {
+      "name": "Convertible",
+      "image": "/autoParts/bodyType/Convertible.svg",
+      "id": "f834"
+    },
+    {
+      "name": "Coupe",
+      "image": "/autoParts/bodyType/Coupe.svg",
+      "id": "b92c"
+    },
+    {
+      "name": "People Mover",
+      "image": "/autoParts/bodyType/People Mover.svg",
+      "id": "da73"
+    },
+    {
+      "name": "Van",
+      "image": "/autoParts/bodyType/Van.svg",
+      "id": "5891"
+    },
+    {
+      "name": "Bus",
+      "image": "/autoParts/bodyType/Bus.svg",
+      "id": "f659"
+    },
+    {
+      "name": "Light Truck",
+      "image": "/autoParts/bodyType/Light Truck.svg",
+      "id": "9d44"
+    }
+  ],
+  "marks": [
+    {
+      "name": "Abarth",
+      "image": "/autoParts/marks/Abarth.png",
+      "id": "65b3"
+    },
+    {
+      "name": "Alfa Romeo",
+      "image": "/autoParts/marks/Alfa Romeo.png",
+      "id": "6b22"
+    },
+    {
+      "name": "Aston Martin",
+      "image": "/autoParts/marks/Aston Martin.png",
+      "id": "bde3"
+    },
+    {
+      "name": "Audi",
+      "image": "/autoParts/marks/Audi.png",
+      "id": "6e99"
+    },
+    {
+      "name": "Bentley",
+      "image": "/autoParts/marks/Bentley.png",
+      "id": "23b8"
+    },
+    {
+      "name": "BMW",
+      "image": "/autoParts/marks/BMW.png",
+      "id": "a01d"
+    },
+    {
+      "name": "BYD",
+      "image": "/autoParts/marks/BYD.png",
+      "id": "cb1d"
+    },
+    {
+      "name": "Chevrolet",
+      "image": "/autoParts/marks/Chevrolet.png",
+      "id": "0837"
+    },
+    {
+      "name": "Citroen",
+      "image": "/autoParts/marks/Citroen.png",
+      "id": "d334"
+    },
+    {
+      "name": "CUPRA",
+      "image": "/autoParts/marks/CUPRA.png",
+      "id": "5a50"
+    },
+    {
+      "name": "Ferrari",
+      "image": "/autoParts/marks/Ferrari.png",
+      "id": "025e"
+    },
+    {
+      "name": "GWM",
+      "image": "/autoParts/marks/GWM.png",
+      "id": "fe4b"
+    },
+    {
+      "name": "Honda",
+      "image": "/autoParts/marks/Honda.png",
+      "id": "5b2a"
+    },
+    {
+      "name": "Hyundai",
+      "image": "/autoParts/marks/Hyundai.png",
+      "id": "c257"
+    },
+    {
+      "name": "INEOS",
+      "image": "/autoParts/marks/INEOS.png",
+      "id": "d747"
+    },
+    {
+      "name": "Jaguar",
+      "image": "/autoParts/marks/Jaguar.png",
+      "id": "8b64"
+    },
+    {
+      "name": "Jeep",
+      "image": "/autoParts/marks/Jeep.png",
+      "id": "705d"
+    },
+    {
+      "name": "Kia",
+      "image": "/autoParts/marks/Kia.png",
+      "id": "0cc0"
+    },
+    {
+      "name": "Lamborghini",
+      "image": "/autoParts/marks/Lamborghini.png",
+      "id": "46eb"
+    },
+    {
+      "name": "Land Rover",
+      "image": "/autoParts/marks/Land Rover.png",
+      "id": "8e63"
+    },
+    {
+      "name": "LDV",
+      "image": "/autoParts/marks/LDV.png",
+      "id": "e432"
+    },
+    {
+      "name": "Lexus",
+      "image": "/autoParts/marks/Lexus.png",
+      "id": "7f13"
+    },
+    {
+      "name": "Mahindra",
+      "image": "/autoParts/marks/Mahindra.png",
+      "id": "193c"
+    },
+    {
+      "name": "Maserati",
+      "image": "/autoParts/marks/Maserati.png",
+      "id": "b3ec"
+    },
+    {
+      "name": "Mazda",
+      "image": "/autoParts/marks/Mazda.png",
+      "id": "2d4d"
+    },
+    {
+      "name": "McLaren",
+      "image": "/autoParts/marks/McLaren.png",
+      "id": "e07c"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "image": "/autoParts/marks/Mercedes-Benz.png",
+      "id": "8a69"
+    },
+    {
+      "name": "MG",
+      "image": "/autoParts/marks/MG.png",
+      "id": "cd1e"
+    },
+    {
+      "name": "MINI",
+      "image": "/autoParts/marks/MINI.png",
+      "id": "2b78"
+    },
+    {
+      "name": "Mitsubishi",
+      "image": "/autoParts/marks/Mitsubishi.png",
+      "id": "7e53"
+    },
+    {
+      "name": "Nissan",
+      "image": "/autoParts/marks/Nissan.png",
+      "id": "c7f8"
+    },
+    {
+      "name": "Peugeot",
+      "image": "/autoParts/marks/Peugeot.png",
+      "id": "3c39"
+    },
+    {
+      "name": "Polestar",
+      "image": "/autoParts/marks/Polestar.png",
+      "id": "dd54"
+    },
+    {
+      "name": "Porsche",
+      "image": "/autoParts/marks/Porsche.png",
+      "id": "1d50"
+    },
+    {
+      "name": "RAM",
+      "image": "/autoParts/marks/RAM.png",
+      "id": "9554"
+    },
+    {
+      "name": "Renault",
+      "image": "/autoParts/marks/Renault.png",
+      "id": "7ed7"
+    },
+    {
+      "name": "Rolls-Royce",
+      "image": "/autoParts/marks/Rolls-Royce.png",
+      "id": "0d21"
+    },
+    {
+      "name": "SKODA",
+      "image": "/autoParts/marks/SKODA.png",
+      "id": "2cd9"
+    },
+    {
+      "name": "SsangYong",
+      "image": "/autoParts/marks/SsangYong.png",
+      "id": "a146"
+    },
+    {
+      "name": "Subaru",
+      "image": "/autoParts/marks/Subaru.png",
+      "id": "6f7a"
+    },
+    {
+      "name": "Suzuki",
+      "image": "/autoParts/marks/Suzuki.png",
+      "id": "f785"
+    },
+    {
+      "name": "Tesla",
+      "image": "/autoParts/marks/Tesla.png",
+      "id": "ffb5"
+    },
+    {
+      "name": "Toyota",
+      "image": "/autoParts/marks/Toyota.png",
+      "id": "91de"
+    },
+    {
+      "name": "Volkswagen",
+      "image": "/autoParts/marks/Volkswagen.png",
+      "id": "fdf9"
+    },
+    {
+      "name": "Volvo",
+      "image": "/autoParts/marks/Volvo.png",
+      "id": "fb57"
+    }
+  ],
+  "myOrders": [
+    {
+      "id": "6132",
+      "carModel": "Lamborghini Aventador",
+      "price": 450000,
+      "nameSurname": "Берсенев Тимур Николаевич",
+      "email": "armagedon277@gmail.com",
+      "phoneNumber": "+7 723782378",
+      "address": "Пушкино новохозяйственное",
+      "town": "Барнаул",
+      "mailIndex": 89832,
+      "cardNumber": 123409832139,
+      "nameOwnerCard": "Тимур Николаевич",
+      "cardExpiryDate": "09/27",
+      "insurancePeriod": "10 ЛЕТ",
+      "nameInsuranceCompany": "GG.SELL.",
+      "confirmation": {
+        "confirmCondition": true,
+        "agreeProcessingPersonData": true
+      }
+    },
+    {
+      "id": "ac46",
+      "carModel": "BMW M8",
+      "price": 110000,
+      "nameSurname": "Баба Люба Петровна",
+      "email": "Baba_Lubanya_Drovosek@destroyer.dead",
+      "phoneNumber": "+7 3092184324",
+      "address": "Улица Пушкина Дом Колотушкина",
+      "town": "Москва",
+      "mailIndex": 214421,
+      "cardNumber": 8923203423914305,
+      "nameOwnerCard": "PraPraPraBabushka",
+      "cardExpiryDate": "03/2077",
+      "insurancePeriod": "INFINITY",
+      "nameInsuranceCompany": "Защита прав Престарелых",
+      "confirmation": {
+        "confirmCondition": true,
+        "agreeProcessingPersonData": true
+      }
+    },
+    {
+      "id": "cf3c",
+      "carModel": "BMW M2",
+      "price": 60000,
+      "nameSurname": "BMW Хасанщик",
+      "email": "lubluPoxasanit@gmail.com",
+      "phoneNumber": "+7 412-03-21-123",
+      "address": "улица где хочу там и дрифчу  ДОМ СКОРОСТНОЙ и машина тоже",
+      "town": "Хасанщика",
+      "mailIndex": 421321,
+      "cardNumber": 9992888432195342,
+      "nameOwnerCard": "СКОРОСТНОЙ ГИПАРД",
+      "cardExpiryDate": "05/до смерти",
+      "insurancePeriod": "пока тачка жива",
+      "nameInsuranceCompany": "2 дня тачки нет",
+      "confirmation": {
+        "confirmCondition": true,
+        "agreeProcessingPersonData": true
+      }
+    }
+  ],
+  "basket": []
+}
